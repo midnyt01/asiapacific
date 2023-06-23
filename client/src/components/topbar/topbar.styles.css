@@ -1,0 +1,45 @@
+  .topbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 105px;
+    background-color: #fffcfcb2;
+    padding: 10px 100px 10px 100px;
+    z-index: 9999 !important;
+  }
+  .announcement-bar {
+    background-color: #ff7f50d6;
+    padding: 6px 2px;
+    color: white;
+    text-align: center;
+  }
+  .announcement-bar p{
+    margin: 0;
+    font-size: 14px;
+  }
+  .topbar-container p {
+      margin: 0;
+    }
+  .topbar-container img {
+    width: 140px;
+  }
+  .topbar-container ul {
+    list-style: none;
+    display: flex;
+  }
+  .topbar-container ul li a {
+    color: black;
+    padding: 0 8px 0 8px;
+  }
+  .sidebar-icon {
+    display: none;
+  }
+
+@media (max-width: 720px) {
+  ul.topbar-links {
+    display: none;
+  }
+  .sidebar-icon {
+    display: block;
+  }
+}
