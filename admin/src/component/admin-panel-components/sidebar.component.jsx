@@ -151,7 +151,7 @@ const AdminSidebar = () => {
         <CloseButton onClick={toggleSidebar}>
           <FontAwesomeIcon icon="fa-solid fa-xmark" size="2xl" />
         </CloseButton>
-        <SidebarTitle>First World Wide</SidebarTitle>
+        <SidebarTitle>Asia Pacific Global</SidebarTitle>
       </LogoContainer>
       <NavItemContainer>
         {
