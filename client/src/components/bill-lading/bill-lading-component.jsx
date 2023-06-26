@@ -6,7 +6,7 @@ import BillInfo from "./bill-info";
 
 async function getShipmentInfo(details) {
   const response = await fetch(
-    `http://apiasiapacific.nitrosk.com/customer/get-shipment-info`,
+    `https://api.asiapacificocean.com/customer/get-shipment-info`,
     {
       method: "post",
       headers: {

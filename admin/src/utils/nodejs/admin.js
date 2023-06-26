@@ -1,5 +1,4 @@
-// const API = 'https://api.fwwlogistic.com/admin';
-const API = 'http://apiasiapacific.nitrosk.com/admin';
+const API = 'https://api.asiapacificocean.com/admin';
 
 
 async function httpCreateAdmin (adminCred) {
