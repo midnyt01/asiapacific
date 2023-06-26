@@ -12,11 +12,9 @@ const Footer = () => {
                     <h3>GET IN TOUCH</h3>
 
                     <h3>Corporate Office:</h3>
-                    <p>Asia Pacific Global Ocean Pte Ltd,<br />
-                    SAIF SUITE Q1-01-012, GOLD PARK,<br />
-                    SAIF ZONE, SHARJAH, UAE<br />
-                    asiapacificglobalocean@gamil.com<br />
-                    +971503618103 / +97165639248</p>
+                    <p>
+                    asiapacificglobalocean@gmail.com<br />
+                    +65 8164 9482</p>
                 </div>
                 
                 <div className='footer-col-2'>

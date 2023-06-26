@@ -22,7 +22,7 @@ const Topbar = () => {
     <div>
       <div className='container'>
         <div className="announcement-bar">
-          <p>24×7 Helpline : Email : asiapacificglobalocean@gamil.com</p>
+          <p>24×7 Helpline : Email : asiapacificglobalocean@gmail.com</p>
         </div>
         <div className="topbar-container">
           <img src={MainLogo} alt="FWW Logo" />
